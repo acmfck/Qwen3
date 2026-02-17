@@ -1,4 +1,4 @@
-# Repository Guidelines
+# Repository Guidelines(acmfck)
 
 ## Project Structure & Module Organization
 - `README.md` and `Qwen3_Technical_Report.pdf` provide high-level model and release context.
